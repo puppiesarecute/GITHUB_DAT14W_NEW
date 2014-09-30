@@ -1,0 +1,5 @@
+KEYS:
+
+1. natural key: an existing attribute used as key
+2. composite key: combination of 2 or more attributes as key
+3. synthetic key: an added attribute for the purpose
